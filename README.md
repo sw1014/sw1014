@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 Welcome to Shuwen's Github Homepage!
 
 - 🔭 I’m a master student from Xiamen University
 - 🌱 My research area mainly focuses on Neural Radiance Fields, Computer Vison (2D, 3D).
